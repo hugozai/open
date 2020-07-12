@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 ,鳳凰香港臺
+http://154.211.14.239/forum/iptv_w.php?id=7
+#EXTINF:-1 ,无线新闻
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9
+#EXTINF:-1 ,翡翠台
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1
+#EXTINF:-1 ,明珠台
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=13
+#EXTINF:-1 ,TVB J2
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=12
+#EXTINF:-1 ,无线财经资讯
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=10
+#EXTINF:-1 ,有线新闻
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=31
+#EXTINF:-1 ,有线综合
+http://v.exdnd.com/dl/proxy.php?vid=utvhk&id=662547571
+#EXTINF:-1 ,有线财经
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=35
+#EXTINF:-1 ,財經2
+http://v.exdnd.com/dl/proxy.php?vid=utvhk&id=657254837
+#EXTINF:-1 ,有线18台
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=32
+#EXTINF:-1 ,有线电影
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=30
+#EXTINF:-1 ,電影
+http://v.exdnd.com/dl/xg.php?id=30
+#EXTINF:-1 ,星空卫视
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=18
+#EXTINF:-1 ,港台电视31
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=20
+#EXTINF:-1 ,港台电视32
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=21
+#EXTINF:-1 ,星河频道
+http://v.exdnd.com/dl/proxy.php?
+#EXTINF:-1 ,TVB星河台
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17
+#EXTINF:-1 ,澳門互動新聞台
+http://v.exdnd.com/dl/xg.php?id=26
+#EXTINF:-1 ,澳門有線一台
+http://v.exdnd.com/dl/xg.php?id=25
+#EXTINF:-1 ,澳门莲花
+http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=22
+#EXTINF:-1 ,蓮花
+http://v.exdnd.com/dl/proxy.php?flv&vid=iptv805&tid=gt&id=22
